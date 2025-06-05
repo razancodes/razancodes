@@ -2,10 +2,8 @@
 I am currently learning programming and exploring the field of back-end development
 
 Skills and Expertise
-Programming: Currently learning back-end development
-Graphic Design: 3 years of experience running my own graphic design agency
-Social Media Marketing: 3 years of experience in social media marketing
-
+Programming: py, c 
+Expertise: ML
 you can reach out to me on
 razancodes@gmail.com
 
