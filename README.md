@@ -4,7 +4,8 @@ I am currently learning programming and exploring the field of back-end developm
 Skills and Expertise
 Programming: py, c 
 Expertise: ML
-\nyou can reach out to me on
+
+nyou can reach out to me on
 razancodes@gmail.com
 
 <!---
