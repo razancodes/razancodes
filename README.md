@@ -5,7 +5,7 @@ Skills and Expertise
 Programming: py, c 
 Expertise: ML
 
-nyou can reach out to me on
+you can reach out to me on
 razancodes@gmail.com
 
 <!---
