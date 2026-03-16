@@ -3,7 +3,7 @@
 
 -  I’m currently working at [Oivi](https://www.oivi.co/)
 
--  I’m looking to collaborate on **AI Research**
+-  I’m looking to collaborate on **AI Research** and **Deep Learning** 
 
 <h3 align="left">Competitive Programming:</h3>
 <p align="left">
